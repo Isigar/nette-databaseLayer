@@ -1,7 +1,7 @@
 # nette-databaseLayer
 Database layer for easy work with data
 
-## How its work?
+## How does it work?
 You create class manager with extends of BaseManager and then you only add database depency.
 For example i have in database table Devices where i save devices whitch connect to my app. (you can see example in testManager.php)
 
